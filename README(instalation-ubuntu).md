@@ -10,7 +10,7 @@ Puede utilizarse en ordenadores y servidores. Está orientado al usuario promedi
 ## Instalación de Virtualbox
 Descargaremos [Virtualbox](https://www.virtualbox.org/) para el sistema operativo de nuestro ordenador.
 ## Configuración Virtualbox
-Arrancamos Virtualbox y hacemos click en "Nueva":
+Arrancamos Virtualbox y hacemos click en "Nueva": ![]1virtualbox.png
 
 
 
