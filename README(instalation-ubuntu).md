@@ -45,18 +45,23 @@ Entonces, ejecutamos.
 
 ## Instalación de Ubuntu
 vemos la pantalla de Grub y elegimos la opción "Try or Install Ubuntu", y le damos a la tecla "Enter":
+
 ![](https://user-images.githubusercontent.com/122264807/224402757-287c1c5f-37e2-4ef4-b22d-2da1107840f4.png)
 ELegimos el idioma y hacemos click en "Instalar Ubuntu":
+
 ![](https://user-images.githubusercontent.com/122264807/224655846-55285ceb-67ef-4c1b-8047-98f0c489b12a.png)
 
 Elegimos la distribución del teclado:
+
 ![](https://user-images.githubusercontent.com/122264807/224403413-bfe8ab27-026f-4c2d-9886-f77b068652ad.png)
 
 Elegimos el tipo de instalación y si actualizaremos o instalaremos software de terceros:
+
 ![](https://user-images.githubusercontent.com/122264807/224403730-a45db4cd-83e0-4ce9-b464-d3fd717ef23b.png)
 ![](https://user-images.githubusercontent.com/122264807/224403916-4ff375fc-4317-4ed3-91f5-dd8c0daa5c77.png)
 
 Elegimos borrar todo el disco y que se instale Ubuntu como único sistema operativo:
+
 ![](https://user-images.githubusercontent.com/122264807/224404089-6a54e039-a5a7-46e9-a9a5-4502ae312ae2.png)
 
 Elegimos idioma y hacemos click en instalar:
